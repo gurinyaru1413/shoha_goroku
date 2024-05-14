@@ -1,0 +1,28 @@
+.logo{
+    font-size: 80px;
+}
+
+a{
+    text-decoration: none;
+    font-size:50px ;  
+    color: green;
+}
+
+.kanasimi{
+    left: 150px;
+    position: fixed;
+}
+
+.ikari{
+    left: 350px;
+    position: fixed;
+}
+
+.game{
+    left: 500px;
+    position: fixed;
+}
+
+.beta{
+    font-size: 25px;
+}
